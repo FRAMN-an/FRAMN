@@ -1,10 +1,8 @@
-# Feature-pairs Relevant Attention Metric Network for Few-shot Image 
-Classification
+# Feature-pairs Relevant Attention Metric Network for Few-shot Image Classification
 
 This repository contains the reference Pytorch source code for the following paper:
 
-Feature-pairs Relevant Attention Metric Network for Few-shot Image 
-Classification
+Feature-pairs Relevant Attention Metric Network for Few-shot Image Classification
 
 
 
